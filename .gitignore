@@ -1,0 +1,16 @@
+# ESP-IDF build output
+/build/
+
+# Local ESP-IDF configuration (keep sdkconfig.defaults tracked)
+/sdkconfig
+/sdkconfig.old
+
+# Host and editor artifacts
+.DS_Store
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+core
+core.*
